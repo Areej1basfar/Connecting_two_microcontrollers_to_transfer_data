@@ -5,3 +5,6 @@
 
 https://github.com/Areej1basfar/Connecting_two_microcontrollers_to_transfer_data/assets/121516453/c947e8c1-7e60-4f7a-aa90-8a5b4704f7ec
 
+<br><br>
+The link for the project on TINKERCAD:<br>
+https://www.tinkercad.com/things/a3ZzuItUnIW
