@@ -1,4 +1,4 @@
-// Code cho Arduino 2 - nhận tín hiệu từ phím bấm
+// Code 
 void setup() {
 pinMode(2,INPUT_PULLUP);
 Serial.begin(9600);
