@@ -1,4 +1,4 @@
-# Connecting_two_microcontrollers_to_transfer_data.<br><br>
+# Connecting two microcontrollers to transfer data <Smart Methods training 2023>.<br><br>
 #### Connecting two Arduino microcontrollers to each other, in order to represent the idea of ​​"communication methods".<br>
 #### We will connect the Arduino with another Arduino and then connect the button to one of them and the LED to the other. What will happen is: when we push the button on the first Arduino the LED on the second Arduino will light up.<br><br><br><br>
 
